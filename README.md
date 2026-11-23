@@ -1,39 +1,50 @@
-<h1 align="center">$ whoami</h1>
+<p align="center">
+  <img src="./banner.jpg" alt="ahana banner" width="100%">
+</p>
 
-```bash
-┌──(ahana㉿localhost)-[~]
-└─$ whoami
-ahana — CS student, builds full-stack things and makes them look good
+## 🎯 About Me
 
-┌──(ahana㉿localhost)-[~]
-└─$ cat about.txt
-I like projects with a real backend behind them, not just a UI.
-Mostly React/TypeScript on the front, Python (FastAPI) on the back,
-with the occasional absurd idea taken too seriously (see: chess-union).
+<p align="center">
 
-┌──(ahana㉿localhost)-[~]
-└─$ ls skills/
-frontend/   react  typescript  tailwind  three.js
-backend/    python  fastapi
-studying/   computer-networks
+```js
+const me = {
+  name: "ahana",
+  role: "CS Undergraduate",
 
-┌──(ahana㉿localhost)-[~]
-└─$ cat status.log
-[DONE]   3 hackathon/solo projects shipped, full-stack + 3D
-[ACTIVE] TryHackMe
-[GOAL]   summer 2027 internship
+  building: [
+    "Full-stack hackathon projects",
+    "3D/interactive dashboards",
+  ],
+
+  active: "TryHackMe",
+  studying: "Computer Networks",
+  goal: "Summer 2027 internship",
+
+  tech: {
+    frontend: ["React", "TypeScript", "Tailwind", "Three.js"],
+    backend: ["Python", "FastAPI"],
+  },
+};
 ```
 
-### 📂 ls projects/
+</p>
 
-```bash
-chess-union/              # chess, but pieces unionize and strike if you trade them away for nothing
-cloudsense/               # AWS cost dashboard — anomaly detection + spend forecasting (React/FastAPI/ML)
-digital_twin_transformer/ # 3D digital twin of a power transformer — physics/ageing model + live dashboard
-```
+## 🛠️ Tech Stack
 
-### 📡 Contact
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,threejs,python,fastapi,git,github,vscode&theme=dark" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/ahana-sasmal-82077b331/)
+## 🚀 Projects
 
-<!-- flag{you_read_the_source} -->
+| Project | What it is |
+|---|---|
+| [chess-union](https://github.com/ahana1864/chess-union) | Chess, but pieces unionize and strike if you trade them away for nothing |
+| [CloudSense](https://github.com/ahana1864/CloudSense) | AWS cost dashboard — anomaly detection + spend forecasting (React/FastAPI/ML) |
+| [digital_twin_transformer](https://github.com/ahana1864/digital_twin_transformer) | 3D digital twin of a power transformer — physics/ageing model + live dashboard |
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahana-sasmal-82077b331/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
