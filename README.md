@@ -4,7 +4,12 @@
 
 ## About Me
 
-<p align="center">
+<table>
+<tr>
+<td width="40%" align="center">
+  <img src="./about.jpg" alt="about" width="100%">
+</td>
+<td width="60%">
 
 ```js
 const me = {
@@ -27,7 +32,9 @@ const me = {
 };
 ```
 
-</p>
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
